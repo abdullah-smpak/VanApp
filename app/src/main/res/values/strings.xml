@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vano Me</string>
+    <string name="title_activity_forget__password">Forget_Password</string>
+    <string name="ip">www.mucaddam.pk</string>
+    <string name="title_activity_dri_track">Map</string>
+    <string name="title_activity_test_map">Map</string>
+</resources>
